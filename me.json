@@ -1,0 +1,17 @@
+{
+  "full-name": "Jasmine Cervantes",
+  "description": "She is pretty neat!",
+  "pets": [
+    {
+      "name": "Shadow",
+      "color": "black",
+      "kind": "dog"
+    }
+  ],
+  "favorites": {
+    "color": "purple",
+    "number": 27,
+    "animal": "panther ",
+    "video": "https://www.youtube.com/watch?v=CTFtOOh47oo"
+  }
+}
